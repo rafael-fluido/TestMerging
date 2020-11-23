@@ -23,3 +23,49 @@
 		"totalSeats": 300
 	}
 }]
+
+		"totalSeats": 150
+	}
+}, {
+	"ID": 2,
+	"code": "ER45if",
+	"price": 345.99,
+	"departureDate": "2016/02/11",
+	"origin": "MUA",
+	"destination": "LAX",
+	"emptySeats": 52,
+	"plane": {
+		"type": "Boeing 777",
+		"totalSeats": 300
+	}
+}]
+		"totalSeats": 150
+	}
+}, {
+	"ID": 2,
+	"code": "ER45if",
+	"price": 345.99,
+	"departureDate": "2016/02/11",
+	"origin": "MUA",
+	"destination": "LAX",
+	"emptySeats": 52,
+	"plane": {
+		"type": "Boeing 777",
+		"totalSeats": 300
+	}
+}]
+		"totalSeats": 150
+	}
+}, {
+	"ID": 2,
+	"code": "ER45if",
+	"price": 345.99,
+	"departureDate": "2016/02/11",
+	"origin": "MUA",
+	"destination": "LAX",
+	"emptySeats": 52,
+	"plane": {
+		"type": "Boeing 777",
+		"totalSeats": 300
+	}
+}]
